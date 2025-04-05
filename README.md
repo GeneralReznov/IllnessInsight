@@ -1,6 +1,6 @@
 # IllnessInsight: AI-Powered Disease Insight Platform
 
-Welcome to the GitHub repository for **IllnessInsight**, an advanced AI-driven platform designed to revolutionize healthcare by providing early and accurate predictions for chronic diseases. By leveraging machine learning models and generative AI, PredictiCare empowers users with actionable insights into their health, enabling proactive care and better decision-making.
+Welcome to the GitHub repository for **IllnessInsight**, an advanced AI-driven platform designed to revolutionize healthcare by providing early and accurate predictions for chronic diseases. By leveraging machine learning models and generative AI, IllnessInsight empowers users with actionable insights into their health, enabling proactive care and better decision-making.
 
 🌟 **Features**
 
@@ -25,7 +25,7 @@ Welcome to the GitHub repository for **IllnessInsight**, an advanced AI-driven p
 - **Programming Language:** Python
 
 - **Libraries & Frameworks:**
-  - Machine Learning: scikit-learn, pandas, numpy
+  - Machine Learning: scikit-learn, pandas, numpy, matplotlib
   - GUI Development: Streamlit
   - Chatbot Integration: google.generativeai (Gemini API)
   - Model Persistence: pickle
